@@ -1,5 +1,0 @@
-Linda, P1, 2
-Linda, P3, 15
-Jack, Chocolate, 5
-Zoran, Wine, 10, What a bargain!
-2, C1, 10, 2020-12-20
